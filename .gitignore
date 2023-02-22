@@ -1,0 +1,10 @@
+build/
+test/
+etc/
+
+*.spec
+*.zip
+
+/test.py
+/tistory.py
+/tistory.json
